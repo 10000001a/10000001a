@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   9 hrs 44 mins   ██████████████░░░░░░░░░░░   56.28 %
-PHP          4 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
-HTML         1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Dart         54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-TypeScript   51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+JavaScript   9 hrs 50 mins   █████████████▓░░░░░░░░░░░   54.73 %
+PHP          5 hrs 9 mins    ███████▒░░░░░░░░░░░░░░░░░   28.69 %
+HTML         2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+TypeScript   56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
