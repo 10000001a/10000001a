@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP              3 hrs 38 mins   █████████████▓░░░░░░░░░░░   54.31 %
-JavaScript       1 hr 24 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
-Dart             1 hr 18 mins    █████░░░░░░░░░░░░░░░░░░░░   19.46 %
-TypeScript       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+PHP              3 hrs 38 mins   ██████████▓░░░░░░░░░░░░░░   43.04 %
+Dart             3 hrs 1 min     █████████░░░░░░░░░░░░░░░░   35.72 %
+JavaScript       1 hr 24 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
+TypeScript       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+YAML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
