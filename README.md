@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       1 hr 56 mins    ██████████████████░░░░░░░   72.29 %
-Dart             31 mins         █████░░░░░░░░░░░░░░░░░░░░   19.51 %
-Docker           5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-YAML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Bash             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+TypeScript       1 hr 25 mins    ████████████████▒░░░░░░░░   65.83 %
+Dart             31 mins         ██████░░░░░░░░░░░░░░░░░░░   24.25 %
+Docker           5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+YAML             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Bash             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
