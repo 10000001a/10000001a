@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart             1 hr 20 mins    ███████████░░░░░░░░░░░░░░   43.51 %
-Bash             49 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.42 %
-TypeScript       20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-YAML             17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
-JSON             9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-Docker           8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Dart             2 hrs 51 mins   ████████████████████▒░░░░   80.68 %
+TypeScript       39 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
+JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
