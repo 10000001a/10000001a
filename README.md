@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         40 mins         ███████████████████████░░   92.40 %
-TypeScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-YAML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Dart         1 hr 31 mins    ████████████████████████░   96.49 %
+TypeScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
