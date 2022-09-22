@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   1 hr 48 mins    ███████████████████████░░   91.49 %
+Bash         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
