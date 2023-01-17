@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Bash         13 mins         ██████████▒░░░░░░░░░░░░░░   41.70 %
-Other        9 mins          ███████▓░░░░░░░░░░░░░░░░░   30.09 %
+Docker       34 mins         ██████████░░░░░░░░░░░░░░░   40.48 %
+Other        33 mins         █████████▓░░░░░░░░░░░░░░░   39.30 %
 ```
 
 <!--END_SECTION:waka-->
