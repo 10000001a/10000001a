@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Docker   38 mins         ██████████████▒░░░░░░░░░░   57.01 %
-Other    23 mins         ████████▓░░░░░░░░░░░░░░░░   34.99 %
+Docker   12 mins         ████████████████████▓░░░░   82.35 %
+YAML     2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
 ```
 
 <!--END_SECTION:waka-->
