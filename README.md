@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Dart         1 hr 3 mins     ██████████████░░░░░░░░░░░   55.96 %
+Groovy       39 mins         ████████▓░░░░░░░░░░░░░░░░   34.51 %
+YAML         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+CocoaPods    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
