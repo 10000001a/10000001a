@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart    2 hrs 2 mins    ████████████████████████▓   99.19 %
-YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-XML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Dart   2 hrs 1 min     ████████████████████████▓   99.26 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
