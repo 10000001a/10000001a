@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart    0 secs          ████████████████░░░░░░░░░   63.55 %
-Other   0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
