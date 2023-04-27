@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart             2 hrs 51 mins   █████████████████████████   99.97 %
+Dart             3 hrs 11 mins   █████████████████████████   99.76 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
