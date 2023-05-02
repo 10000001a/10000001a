@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Dart   1 hr 7 mins     █████████████████████████   99.54 %
+INI    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
