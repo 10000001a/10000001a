@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 6 mins    ███████████████▓░░░░░░░░░   62.98 %
-Kotlin       40 mins         █████░░░░░░░░░░░░░░░░░░░░   19.96 %
-CSS          20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Dart         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Kotlin           1 hr 55 mins    ██████████████▓░░░░░░░░░░   58.64 %
+JavaScript       38 mins         █████░░░░░░░░░░░░░░░░░░░░   19.68 %
+SCSS             13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+CSS              12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+XML              7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->
