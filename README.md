@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Dart       1 hr 22 mins    ████████████████████▓░░░░   82.73 %
 JSON       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
 YAML       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
