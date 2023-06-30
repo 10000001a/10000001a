@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart    18 mins         ███████████████████████░░   91.47 %
-YAML    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-JSON    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
