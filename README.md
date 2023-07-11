@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart    2 hrs 14 mins   ███████████████████████▒░   93.34 %
-YAML    6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Other   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Dart   3 hrs 3 mins    ████████████████████████▓   98.74 %
+YAML   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
