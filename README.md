@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             21 hrs 58 mins  ██████████████████████▒░░   89.06 %
-Groovy           49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Gradle           24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-YAML             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-TypeScript       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Dart             21 hrs 13 mins  █████████████████████▓░░░   86.39 %
+Groovy           56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Gradle           28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+TypeScript       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Properties       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
