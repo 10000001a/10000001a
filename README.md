@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   5 hrs 50 mins   ██████████████████████░░░   87.48 %
-XML      43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-Groovy   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Gradle   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Java     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Kotlin       6 hrs 37 mins   ████████████████▒░░░░░░░░   65.85 %
+Dart         2 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   23.63 %
+XML          46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+TypeScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Groovy       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
