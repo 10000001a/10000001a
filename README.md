@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 7 hrs 4 mins    ██████████▒░░░░░░░░░░░░░░   40.98 %
-Python                 6 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   36.24 %
-XML                    1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Dart                   53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-YAML                   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Kotlin                 9 hrs 57 mins   ███████████████▒░░░░░░░░░   61.52 %
+Python                 2 hrs 56 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+JavaScript             1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+Markdown               44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+XML                    35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 ```
 
 <!--END_SECTION:waka-->
