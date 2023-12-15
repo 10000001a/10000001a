@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python            1 hr 13 mins    ███████████▓░░░░░░░░░░░░░   46.76 %
-Kotlin            51 mins         ████████▒░░░░░░░░░░░░░░░░   32.68 %
-HTML              14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-GitIgnore file    12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-Java              3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Python            1 hr 13 mins    █████████████████░░░░░░░░   68.55 %
+HTML              14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+GitIgnore file    12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+Java              3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Groovy            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
