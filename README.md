@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              6 hrs 57 mins   ██████████████████▒░░░░░░   73.70 %
-Python            53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-Gradle            23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-SQL               18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Java Properties   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Java              5 hrs 13 mins   ███████████████████░░░░░░   76.16 %
+Python            44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Gradle            22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Properties        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+SQL               8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
