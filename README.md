@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              5 hrs 11 mins   ███████████▒░░░░░░░░░░░░░   45.26 %
-Python            2 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.20 %
-Dart              2 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
-Java Properties   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Other             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Java              5 hrs 58 mins   ███████████████▒░░░░░░░░░   61.46 %
+Dart              2 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
+Java Properties   37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Other             20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Properties        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->
