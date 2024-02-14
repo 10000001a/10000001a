@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java       4 hrs 22 mins   █████████████████████████   100.00 %
+Java       3 hrs 50 mins   █████████████████████████   100.00 %
 textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
