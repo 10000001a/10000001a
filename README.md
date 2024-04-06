@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 12 mins   ███████████████▓░░░░░░░░░   62.56 %
-XML               1 hr 9 mins     ████████▒░░░░░░░░░░░░░░░░   32.72 %
-Properties        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Java Properties   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Java              2 hrs 20 mins   ██████████████░░░░░░░░░░░   56.25 %
+XML               1 hr 39 mins    ██████████░░░░░░░░░░░░░░░   39.74 %
+Properties        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Java Properties   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 Gradle            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
