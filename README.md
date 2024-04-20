@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          19 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.94 %
-Kotlin            17 mins         ██████░░░░░░░░░░░░░░░░░░░   23.69 %
-Gradle            9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-Java              9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-textmate          5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Markdown          19 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.00 %
+Kotlin            17 mins         ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+Gradle            9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
+Java              9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+textmate          5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
 ```
 
 <!--END_SECTION:waka-->
