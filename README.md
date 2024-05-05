@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             2 hrs 10 mins   █████████████████████▒░░░   85.49 %
-Markdown         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-Kotlin           7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Docker           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Dart              3 hrs 41 mins   █████████████████████▓░░░   86.55 %
+Java              11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Markdown          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Kotlin            7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+GitIgnore file    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
