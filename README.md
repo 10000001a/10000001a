@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 2 mins    ██████████████████▒░░░░░░   73.49 %
-XML               16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-JavaScript        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-HTML              5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Kotlin            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Java              3 hrs 58 mins   ███████████████████▒░░░░░   77.77 %
+Kotlin            17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+XML               17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+Properties        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+JavaScript        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
