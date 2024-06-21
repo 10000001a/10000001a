@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java        1 hr 42 mins    ███████████████████████▓░   94.23 %
-Kotlin      5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-YAML        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Java        2 hrs 39 mins   ████████████████████████░   95.81 %
+Kotlin      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+C++         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
