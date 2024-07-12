@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java     10 hrs 45 mins  █████████████████████████   99.99 %
+Java     10 hrs 26 mins  █████████████████████████   99.97 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Kotlin   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
