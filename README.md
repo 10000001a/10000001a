@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java          1 hr 59 mins    ███████████████████████░░   91.91 %
-Kotlin        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-YAML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-C++           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-IDEA_MODULE   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
