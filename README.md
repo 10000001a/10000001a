@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TOML             0 secs          ██████████▓░░░░░░░░░░░░░░   43.20 %
+GitIgnore file   0 secs          █████████▓░░░░░░░░░░░░░░░   38.50 %
+Python           0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+YAML             0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Markdown         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
