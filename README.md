@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   6 hrs 26 mins   ████████████████████████▓   98.66 %
-TOML     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Python           1 hr 55 mins    █████████████▓░░░░░░░░░░░   54.53 %
+Java             1 hr 27 mins    ██████████▒░░░░░░░░░░░░░░   41.32 %
+TOML             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Gradle           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
