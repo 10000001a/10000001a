@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java   2 hrs 12 mins   █████████████████████████   100.00 %
+Java     2 hrs 12 mins   █████████████████████████   99.90 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
