@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     1 hr 1 min      ████████████████████████▓   99.24 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python     12 mins         ████████████████████████▒   96.81 %
+Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+textmate   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
