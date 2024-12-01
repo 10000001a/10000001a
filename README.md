@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java             1 hr 52 mins    ██████████████▒░░░░░░░░░░   57.93 %
-Python           50 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.22 %
-SQL              15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-Docker           5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-TOML             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Java   1 hr 54 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
