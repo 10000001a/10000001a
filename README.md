@@ -19,10 +19,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java             1 hr 26 mins    ██████████████▒░░░░░░░░░░   57.82 %
-Python           1 hr 3 mins     ██████████▒░░░░░░░░░░░░░░   41.99 %
-Groovy           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java     1 hr 52 mins    █████████████████████████   99.78 %
+Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
