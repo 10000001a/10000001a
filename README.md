@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java     1 hr 46 mins    █████████████▓░░░░░░░░░░░   54.28 %
+Python   1 hr 29 mins    ███████████▒░░░░░░░░░░░░░   45.54 %
+INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Gradle   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
