@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java         1 hr 10 mins    ██████████████░░░░░░░░░░░   55.51 %
-Python       53 mins         ██████████▓░░░░░░░░░░░░░░   42.23 %
-Bash         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-PythonStub   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   23 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
