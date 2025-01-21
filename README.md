@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             46 mins         ████████████████▓░░░░░░░░   66.13 %
+Python           23 mins         ████████▒░░░░░░░░░░░░░░░░   33.70 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
