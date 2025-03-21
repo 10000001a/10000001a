@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java     2 hrs 4 mins    ████████████████████████▓   98.11 %
-Gradle   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Java   1 hr 17 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
