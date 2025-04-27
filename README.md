@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java                  1 hr 18 mins    ████████████████████████░   95.91 %
-Nginx Configuration   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Python                1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Docker                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Bash                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python                7 hrs 38 mins   █████████████████████░░░░   84.21 %
+Java                  1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+GitIgnore file        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+SQL                   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Nginx Configuration   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
