@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python                7 hrs 37 mins   ████████████████████████▓   98.97 %
-GitIgnore file        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-SQL                   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-TOML                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Nginx Configuration   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
