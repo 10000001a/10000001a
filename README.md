@@ -19,11 +19,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python                1 hr 27 mins    █████████████████████▓░░░   86.15 %
-TOML                  11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-Markdown              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Nginx Configuration   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-PythonStub            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python   32 mins         █████████████████████████   99.94 %
+TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
