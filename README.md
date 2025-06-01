@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           59 mins         █████████████████████████   99.94 %
-TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python           55 mins         █████████████████████████   99.97 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
