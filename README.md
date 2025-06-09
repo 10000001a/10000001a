@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              32 mins         ███████████████████████░░   92.37 %
+Gradle            1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Kotlin            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+YAML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
