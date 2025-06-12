@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              32 mins         ███████████████████████░░   92.37 %
-Gradle            1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-Kotlin            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-YAML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Markdown          33 mins         ████████████░░░░░░░░░░░░░   48.23 %
+Java              32 mins         ███████████▓░░░░░░░░░░░░░   46.13 %
+Gradle            1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Shell Script      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Kotlin            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
