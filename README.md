@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 15 mins    ████████████▒░░░░░░░░░░░░   49.24 %
-Java       38 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
-YAML       33 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
-Gradle     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Groovy     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Markdown   1 hr 15 mins    ██████████████░░░░░░░░░░░   56.54 %
+Java       29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.76 %
+YAML       22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+Gradle     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Groovy     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
