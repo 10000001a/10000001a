@@ -19,11 +19,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java       1 hr 30 mins    █████████████████▒░░░░░░░   68.80 %
-Markdown   25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
-Python     12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-Docker     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java       1 hr 1 min      ████████████████████▒░░░░   81.59 %
+Markdown   13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
 ```
 
 <!--END_SECTION:waka-->
