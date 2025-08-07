@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 25 mins    ███████████████░░░░░░░░░░   60.03 %
-Java       57 mins         ██████████░░░░░░░░░░░░░░░   39.97 %
+Java       53 mins         ██████████████▓░░░░░░░░░░   58.52 %
+Markdown   38 mins         ██████████▒░░░░░░░░░░░░░░   41.48 %
 ```
 
 <!--END_SECTION:waka-->
