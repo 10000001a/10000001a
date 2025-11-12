@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML              12 mins         ███████░░░░░░░░░░░░░░░░░░   27.42 %
+TOML              12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.69 %
+Bash              10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
+Dart              8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
+Java Properties   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
