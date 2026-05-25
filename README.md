@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 54 mins          ███████████████▒░░░░░░░░░   60.98 %
-Dart       59 mins               ████████░░░░░░░░░░░░░░░░░   31.54 %
-Other      12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-YAML       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Dart       2 hrs 23 mins         ██████████████▒░░░░░░░░░░   57.88 %
+Markdown   1 hr 15 mins          ███████▓░░░░░░░░░░░░░░░░░   30.35 %
+YAML       15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Bash       13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
 ```
 
 <!--END_SECTION:waka-->
