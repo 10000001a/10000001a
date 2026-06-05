@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      3 hrs 10 mins         █████████████▒░░░░░░░░░░░   52.99 %
-Dart          2 hrs 18 mins         █████████▓░░░░░░░░░░░░░░░   38.73 %
-Java          22 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-YAML          6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Image (svg)   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Dart             2 hrs 46 mins         █████████▒░░░░░░░░░░░░░░░   36.84 %
+Markdown         2 hrs 42 mins         █████████░░░░░░░░░░░░░░░░   35.84 %
+YAML             1 hr                  ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+Java             39 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+Gradle           7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
