@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             1 hr 29 mins          ████████████░░░░░░░░░░░░░   48.64 %
-Java             39 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
-Other            19 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-YAML             17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-Markdown         8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Dart   31 mins               ██████████████████▒░░░░░░   73.33 %
+Java   10 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
+YAML   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
