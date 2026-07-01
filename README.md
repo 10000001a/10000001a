@@ -19,11 +19,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         23 mins               ████████████░░░░░░░░░░░░░   48.05 %
-Text         9 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
-Env File     8 mins                ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
-Git Config   6 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
-Other        1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+YAML         7 mins                █████████████░░░░░░░░░░░░   51.98 %
+Git Config   6 mins                ████████████░░░░░░░░░░░░░   48.02 %
 ```
 
 <!--END_SECTION:waka-->
