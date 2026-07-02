@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         7 mins                █████████████░░░░░░░░░░░░   51.98 %
-Git Config   6 mins                ████████████░░░░░░░░░░░░░   48.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
