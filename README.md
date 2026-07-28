@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   56 mins               █████████████▓░░░░░░░░░░░   54.32 %
+Dart       17 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+Other      16 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
+Java       14 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
 ```
 
 <!--END_SECTION:waka-->
