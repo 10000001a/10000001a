@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   1 min                 █████████████████████████   100.00 %
+JavaScript       11 mins               ███████████▓░░░░░░░░░░░░░   46.98 %
+Java             6 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
+YAML             3 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+Dart             2 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+Bash             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
