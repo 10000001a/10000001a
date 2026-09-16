@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         55 mins               ████████████████████████▓   98.30 %
-Other        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Dart         22 mins               ████████████████████████▒   96.80 %
+Other        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
