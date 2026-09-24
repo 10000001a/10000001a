@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   27 mins               ███████████████████████░░   92.07 %
-Dart    2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-Java    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other   41 mins               ███████████████████████▓░   94.64 %
+Dart    2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Java    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
